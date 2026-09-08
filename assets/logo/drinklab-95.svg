@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+  <title id="title">DrinkLab 95</title>
+  <desc id="desc">Logotipo DrinkLab 95 em dourado, preto e branco.</desc>
+  <rect width="1000" height="500" fill="#000"/>
+  <g fill="none" stroke="#D89A2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M485 62c38 42-22 61-3 94 17 30 52 29 31 73-12 25-44 35-27 72"/>
+    <path d="M405 132h-40v33l-35 52v118c0 28 23 51 51 51h160c28 0 51-23 51-51V217l-35-52v-33h-40"/>
+    <path d="M363 215h162"/>
+    <path d="M417 255h91v62h-91z"/>
+    <path d="M443 316c-13-17-7-42 17-56 21 14 28 35 17 56"/>
+    <path d="M392 346c40 24 98 24 138 0"/>
+    <path d="M325 385c72 31 202 31 274 0"/>
+    <path d="M585 218c62-13 89 6 89 42 0 38-33 53-78 44"/>
+  </g>
+  <g fill="#D89A2B">
+    <circle cx="464" cy="196" r="6"/><circle cx="464" cy="223" r="7"/><circle cx="464" cy="251" r="8"/>
+  </g>
+  <text x="500" y="445" text-anchor="middle" font-family="Georgia,serif" font-size="72" letter-spacing="14" fill="#F5F3EE">DRINKLAB <tspan fill="#D89A2B">95</tspan></text>
+  <text x="500" y="480" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" letter-spacing="7" fill="#D89A2B">EXPERIÊNCIA • QUALIDADE • PAIXÃO</text>
+</svg>
